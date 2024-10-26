@@ -1,5 +1,5 @@
 import React from 'react'
-import SelfImage from './../../assets/self.JPG'
+import SelfImage from './../../assets/self.jpg'
 import Resume from './../../assets/MehediHasan.pdf'
 
 const AboutMe = () => {
