@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "name": "Food-order",
+    "description": "The Food Order project is a web app I created for users to browse and order food online, featuring cart management and a smooth checkout process. It's built for performance and fully responsive.",
+    "language": "JavaScript",
+    "liveLink": "https://foodorder-m.vercel.app/",
+    "projectIamge" : "./../../assets/self.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Disney-Clone",
+    "description": "I created a Disney Clone using React.js, replicating the Disney+ interface with dynamic and responsive design.",
+    "language": "JavaScript",
+    "liveLink": "https://disney-clone-mehedi.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "Taxi-cab",
+    "description": "The Taxi Cab project is a responsive website for booking taxi services, built with HTML, CSS, JavaScript, and Bootstrap to showcase my front-end skills.",
+    "language": "Bootstrap",
+    "liveLink": "https://mehedi-hasan-dev.github.io/taxi-cab/" 
+  },
+  {
+    "id": 4,
+    "name": "Travel",
+    "description": "This is my Travel project, built with HTML, CSS, and JavaScript, showcasing a responsive and visually engaging landing page for travel destinations. It highlights key sections like featured locations, testimonials, and a contact form for booking inquiries.",
+    "language": "Html & CSS",
+    "liveLink": "https://mehedi-hasan-dev.github.io/travel/"
+  },
+  {
+    "id": 5,
+    "name": "TastyFood",
+    "description": "Tasty Food is a responsive web app showcasing various recipes. Built with React.js, it offers an intuitive interface for easy exploration, demonstrating my skills in front-end development and API integration.",
+    "language": "Html & CSS",
+    "liveLink": "https://mehedi-hasan-dev.github.io/TastyFood/"
+  },
+  {
+    "id": 6,
+    "name": "Halloween",
+    "description": "The Halloween project is a festive, interactive web experience featuring spooky animations and playful elements. Users can explore various themed sections, enjoy engaging graphics, and celebrate the spirit of Halloween through a visually appealing design.",
+    "language": "Html & CSS",
+    "liveLink": "https://mehedi-hasan-dev.github.io/halloween/"
+  },
+  {
+    "id": 7,
+    "name": "Beryoga",
+    "description": "Beryoga is a yoga-themed web application designed to promote wellness and mindfulness. It features an intuitive layout showcasing various yoga poses, guided sessions, and wellness tips to help users enhance their physical and mental health through yoga practice.",
+    "language": "Html & CSS",
+    "liveLink": "https://mehedi-hasan-dev.github.io/beryoga/"
+  }
+]
