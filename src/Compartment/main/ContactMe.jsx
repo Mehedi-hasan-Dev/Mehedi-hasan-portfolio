@@ -57,7 +57,7 @@ const ContactMe = () => {
                 <div className="relative flex items-center">
                   <input type="text" name="first_name" placeholder="First Name"
                     className="px-2 py-3 bg-white dark:bg-[#222931] w-full text-sm text-gray-800 border-b border-gray-300 dark:text-slate-200 focus:border-blue-500 outline-none" />
-                  <User className="w-[18px] h-[18px] absolute right-2 text-gray-400 dark:text-slate-200"/>
+                  <User className="w-[18px] h-[18px] absolute right-2 text-gray-400 "/>
                 </div>
 
                 <div className="relative flex items-center">

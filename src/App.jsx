@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <div className='px-10 py-10 lg:flex gap-5 dark:bg-[#15191E]'>
+     <div className='px-2 py-2 md:px-10 md:py-10 lg:flex gap-5 dark:bg-[#15191E]'>
       <Sidebar/>
       <Main/>
      </div>

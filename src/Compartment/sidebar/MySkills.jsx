@@ -4,7 +4,7 @@ import React from 'react'
 const techStack = [
     'HTML5', 'CSS3', 'Tailwind CSS', 'JavaScript (ES6+)', 'React.js',
     'Next.js', 'API', 'Bootstrap', 'Git', 'GitHub', 
-    'npm', 'Yarn', 'DOM',
+    'npm', 'Yarn', 'DOM', 'Webflow' ,
   ];
 
 const MySkills = () => {
